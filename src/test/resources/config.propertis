@@ -1,0 +1,7 @@
+execution_env=local
+#execution_env=remote
+appURl=https://tutorialsninja.com/demo/
+email=bhoslemaroti1512@gmail.com
+password=test@123
+#password=test@
+searchProduct=iphone
